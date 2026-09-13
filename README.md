@@ -414,7 +414,7 @@ No external Python packages are required.
 # ⚙️ INSTALLATION
 
 ```bash
-git clone https://github.com/an0s-voldigoad/File-Flood.git
+git clone https://github.com/MiSFiT-SeCuRiTY/File-Flood.git
 cd File-Flood
 chmod +x fileflood.py
 ./fileflood.py
